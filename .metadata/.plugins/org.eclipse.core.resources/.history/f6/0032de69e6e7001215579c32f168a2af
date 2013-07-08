@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<title>OAuth - innoQ</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+
+<body>
+
+<p>Login with Google</p>
+
+
+<p>Login with Facebook</p>
+
+
+<p>Login with Twitter</p>
+
+
+
+</body>
+
+
+</html>

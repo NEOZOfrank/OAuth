@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="spark.Response"/>
+<fullyQualifiedTypeName name="spark.Request"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="freemarker.template.Configuration"/>
+<fullyQualifiedTypeName name="freemarker.template.Version"/>
+<fullyQualifiedTypeName name="freemarker.template.Template"/>
+</qualifiedTypeNameHistroy>
